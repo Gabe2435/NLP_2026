@@ -6,13 +6,13 @@ This repository contains the notebooks, exercises, and code developed for the **
 
 The repository is organized into two main sections: basic laboratory exercises and the final project.
 
-### 📝 Laboratory Exercises (`IR_NLP_Class_notebooks`)
+### Laboratory Exercises (`IR_NLP_Class_notebooks`)
 This section contains the implementations of the concepts covered in class:
 * `Exercise0506.ipynb` & `ExercisePython.ipynb`: Setup notebooks and practice with Python fundamentals for text analysis.
 * `InvertedIndex.ipynb`: Development of an Inverted Index, a fundamental data structure for Information Retrieval and search engines.
 * `LSA_tf_idf.ipynb`: Implementation of Latent Semantic Analysis (LSA) and calculation of TF-IDF metrics for text feature extraction, weighting, and semantic retrieval.
 
-### 🚀 Final Project (`IRNLP_Project_...`)
+### Final Project (`IRNLP_Project_...`)
 This folder contains the final project for the exam:
 * `Dataset_preprocessing.ipynb`: Data cleaning, tokenization, and dataset preparation for classification tasks.
 * `ClassificationSentiment.ipynb`: Training and evaluation of models for sentiment classification.
